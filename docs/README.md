@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /.vuepress/public/002.jpg
+heroImage: /images/wxiao.gif
 actionText: 快速上手 →
 actionLink: /blog/
 sidebar: auto

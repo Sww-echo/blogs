@@ -1,5 +1,5 @@
 module.exports = {
-  title: '哈哈', // 配置标题
+  title: '刘桑', // 配置标题
   description: '我的个人网站', //  描述
   head: [
     // 注入到当前页面的 HTML <head> 中的标签
@@ -7,7 +7,7 @@ module.exports = {
       'link',
       {
         rel: 'icon',
-        href: '/002.jpg'
+        href: '/images/wxiao.gif'
       }
     ] // 增加一个自定义的 favicon(网页标签的图标)
   ],
@@ -16,7 +16,7 @@ module.exports = {
     lineNumbers: true // 代码块显示行号
   },
   themeConfig: {
-    logo: '/public/001.jpg',
+    logo: '/images/wxiao.gif',
     sidebarDepth: 3,
     nav: [
       // 导航栏配置
